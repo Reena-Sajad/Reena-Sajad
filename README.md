@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reena-sajad&label=Profile%20views&color=0e75b6&style=flat" alt="reena-sajad" /> </p>
 
-- 👩‍🎓 I’m currently doing my Masters in Computer Science **Northeastern University**
+- 👩‍🎓 I’m currently a Software Engineering Intern at [Bangor Savings Bank](https://www.bangor.com/?gad_source=1&gclid=Cj0KCQiA_Yq-BhC9ARIsAA6fbAhVBMnb7Tc9VVE3S7ROBthpmdNFh1g2bs2H7Dr9_d-KYy7ceC12fUQaAnF5EALw_wcB) and doing my Masters in Computer Science **Northeastern University**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **reenasajad22@gmail.com**
 
-- 📄 Know about my experiences [my Resume](https://docs.google.com/document/d/1F0OZndtafWot-O41Fsx_Vm3I105gwn2z8Ge09F1oHUI/edit?usp=sharing)
+- 📄 Know about my experiences [my Resume](https://docs.google.com/document/d/161wAwwE23FiNBD-T3N4fhOBwY5a5IHNaZZmhpxrP9Sk/edit?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
