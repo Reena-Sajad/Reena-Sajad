@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **reenasajad22@gmail.com**
 
-- 📄 Know about my experiences [my Resume]([https://docs.google.com/document/d/161wAwwE23FiNBD-T3N4fhOBwY5a5IHNaZZmhpxrP9Sk/edit?usp=drive_link](https://docs.google.com/document/d/1HjkbJJS_Yq2_14v1fKOXeArsU5EVBGrewSXxHWSHMnE/edit?usp=sharing))
+- 📄 Know about my experiences [my Resume](https://docs.google.com/document/d/161wAwwE23FiNBD-T3N4fhOBwY5a5IHNaZZmhpxrP9Sk/edit?usp=drive_link](https://docs.google.com/document/d/1HjkbJJS_Yq2_14v1fKOXeArsU5EVBGrewSXxHWSHMnE/edit?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
