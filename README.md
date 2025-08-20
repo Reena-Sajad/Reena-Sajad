@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reena-sajad&label=Profile%20views&color=0e75b6&style=flat" alt="reena-sajad" /> </p>
 
-- 👩‍🎓 I’m currently a Software Engineering Intern at [Bangor Savings Bank](https://www.bangor.com/?gad_source=1&gclid=Cj0KCQiA_Yq-BhC9ARIsAA6fbAhVBMnb7Tc9VVE3S7ROBthpmdNFh1g2bs2H7Dr9_d-KYy7ceC12fUQaAnF5EALw_wcB) and doing my Masters in Computer Science **Northeastern University**
+- I am currently working as a GenAI Data Scientist at [The Institute for Experiential AI - Northeastern University](https://ai.northeastern.edu/) and doing my Masters in Computer Science **Northeastern University**
+  
+- 👩‍🎓 I did my Software Engineering Intern at [Bangor Savings Bank](https://www.bangor.com/?gad_source=1&gclid=Cj0KCQiA_Yq-BhC9ARIsAA6fbAhVBMnb7Tc9VVE3S7ROBthpmdNFh1g2bs2H7Dr9_d-KYy7ceC12fUQaAnF5EALw_wcB) 
 
 - 🌱 I’m currently learning **Cloud Computing**
 
