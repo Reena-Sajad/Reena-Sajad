@@ -5,15 +5,15 @@
 
 - I am currently working as a GenAI Data Scientist at [The Institute for Experiential AI - Northeastern University](https://ai.northeastern.edu/) and doing my Masters in Computer Science **Northeastern University**
   
-- 👩‍🎓 I did my Software Engineering Intern at [Bangor Savings Bank](https://www.bangor.com/?gad_source=1&gclid=Cj0KCQiA_Yq-BhC9ARIsAA6fbAhVBMnb7Tc9VVE3S7ROBthpmdNFh1g2bs2H7Dr9_d-KYy7ceC12fUQaAnF5EALw_wcB) 
+- I did my Software Engineering Intern at [Bangor Savings Bank](https://www.bangor.com/?gad_source=1&gclid=Cj0KCQiA_Yq-BhC9ARIsAA6fbAhVBMnb7Tc9VVE3S7ROBthpmdNFh1g2bs2H7Dr9_d-KYy7ceC12fUQaAnF5EALw_wcB) 
 
-- 🌱 I’m currently learning **Cloud Computing**
+- I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **React, Angular, ML**
+- Ask me about **React, Angular, ML**
 
-- 📫 How to reach me **reenasajad22@gmail.com**
+- How to reach me **reenasajad22@gmail.com**
 
-- 📄 Know about my experiences [my Resume](https://docs.google.com/document/d/1HjkbJJS_Yq2_14v1fKOXeArsU5EVBGrewSXxHWSHMnE/edit?usp=sharing)
+- Know about my experiences [my Resume](https://docs.google.com/document/d/1HjkbJJS_Yq2_14v1fKOXeArsU5EVBGrewSXxHWSHMnE/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
